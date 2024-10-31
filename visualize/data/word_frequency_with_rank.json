@@ -1,0 +1,92 @@
+[
+    {
+        "rank": 1,
+        "word": "요양보호사",
+        "freq": 112
+    },
+    {
+        "rank": 2,
+        "word": "아파트",
+        "freq": 22
+    },
+    {
+        "rank": 3,
+        "word": "미화원",
+        "freq": 22
+    },
+    {
+        "rank": 4,
+        "word": "병원",
+        "freq": 18
+    },
+    {
+        "rank": 5,
+        "word": "경비원",
+        "freq": 9
+    },
+    {
+        "rank": 6,
+        "word": "어르신",
+        "freq": 9
+    },
+    {
+        "rank": 7,
+        "word": "보건",
+        "freq": 9
+    },
+    {
+        "rank": 8,
+        "word": "요양",
+        "freq": 8
+    },
+    {
+        "rank": 9,
+        "word": "청소원",
+        "freq": 8
+    },
+    {
+        "rank": 10,
+        "word": "독거",
+        "freq": 7
+    },
+    {
+        "rank": 11,
+        "word": "미화",
+        "freq": 7
+    },
+    {
+        "rank": 12,
+        "word": "박람회",
+        "freq": 6
+    },
+    {
+        "rank": 13,
+        "word": "조리사",
+        "freq": 6
+    },
+    {
+        "rank": 14,
+        "word": "환경",
+        "freq": 6
+    },
+    {
+        "rank": 15,
+        "word": "장애인",
+        "freq": 5
+    },
+    {
+        "rank": 16,
+        "word": "주택",
+        "freq": 5
+    },
+    {
+        "rank": 17,
+        "word": "보건소",
+        "freq": 5
+    },
+    {
+        "rank": 18,
+        "word": "도서관",
+        "freq": 5
+    }
+]
